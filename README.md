@@ -7,7 +7,8 @@
 - recommend use intellij to try this project
 
 ## Code structure
-`SqlRequest--DAO--AdminDAO|AdminStreamerDAO`  `DBBean--AdminBean`  
+`SqlRequest--DAO--AdminDAO|AdminStreamerDAO`  
+`DBBean--AdminBean`  
 
 ## Testing
 jUnit tests have been included in this project (AdminTest)
