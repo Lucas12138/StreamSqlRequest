@@ -5,6 +5,7 @@
 ## Start up
 - resource/dbSetup.sql should be run at the very beginning
 - recommend use intellij to try this project
+- use maven to get the JDBC dependency
 
 ## Code structure
 `SqlRequest--DAO--AdminDAO|AdminStreamerDAO`  
